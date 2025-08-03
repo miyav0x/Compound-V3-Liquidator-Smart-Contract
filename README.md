@@ -23,7 +23,7 @@ optimized to reduce gas usage, making it more competitive in a congested block e
 * **Hardhat / Foundry:** Development environment and testing framework for local blockchain simulation and deployment.
 * **Ethers. js / Web3. js:** For scripting, deploying, and interacting with the contract.
 * **Compound V3 Protocol:** The targeted DeFi protocol for the liquidation strategy.
-* ##How It Works
+* ## How It Works
 1. **Funding:** The contract is initialized and funded with the base asset required for liquidation (e.g., USDC,
 DAI) •
 **Identification:** The contract listens for or is triggered to scan for
